@@ -1,0 +1,25 @@
+{
+  "name": "entsyklopeedia",
+  "version": "1.0.0",
+  "description": "Minu ülestähendused, materjalid, juhendid, soovitused",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubejuss/entsyklopeedia.git"
+  },
+  "author": "jubejuss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jubejuss/entsyklopeedia/issues"
+  },
+  "homepage": "https://github.com/jubejuss/entsyklopeedia#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.13",
+    "vue": "^3.2.38"
+  }
+}
