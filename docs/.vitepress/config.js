@@ -1,5 +1,6 @@
 export default {
   title: 'Entsüklopeedia',
+  base: '/entsyklopeedia/',
   description: 'Siia kogun tähtsaid materjale',
   themeConfig: {
     nav: [
