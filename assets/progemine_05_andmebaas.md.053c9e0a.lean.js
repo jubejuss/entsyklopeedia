@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as n}from"./app.290ef516.js";const b=JSON.parse('{"title":"\xDChendamine andmebaasiga","description":"","frontmatter":{},"headers":[],"relativePath":"progemine/05_andmebaas.md"}'),r={name:"progemine/05_andmebaas.md"},i=n("",4),s=[i];function o(d,_,c,m,h,p){return t(),a("div",null,s)}const u=e(r,[["render",o]]);export{b as __pageData,u as default};
