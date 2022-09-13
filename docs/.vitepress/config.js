@@ -20,6 +20,10 @@ export default {
               text: 'Taaskasutatavad komponendid',
               link: '/progemine/04_komponendid',
             },
+            {
+              text: 'Ühendamine andmebaasiga',
+              link: '/progemine/05_andmebaas',
+            },
           ],
         },
       ],
